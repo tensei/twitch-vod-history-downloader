@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/nicklaw5/helix"
-	"github.com/schollz/progressbar"
+	"github.com/schollz/progressbar/v2"
 	"github.com/sirupsen/logrus"
 )
 
